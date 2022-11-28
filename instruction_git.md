@@ -78,7 +78,8 @@
 
     git checkout <version number>
 
+## Ветвление
 
-## Ветвления
+Ветки в git нужны для...
 
 
